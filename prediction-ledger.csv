@@ -1,6 +1,11 @@
 # Free to use with attribution: cite "GoalPulse (goalpulse.io)" and link to https://goalpulse.io/open-data.
-# schema=goalpulse.predictionLedger.v1 generatedAt=2026-07-09T00:01:14.026Z source=https://goalpulse.io/ai-track-record
+# schema=goalpulse.predictionLedger.v1 generatedAt=2026-07-14T21:01:20.116Z source=https://goalpulse.io/ai-track-record
 matchId,kickoffUtc,forecastGeneratedAt,homeTeam,awayTeam,homeWin,draw,awayWin,favorite,outcome,homeScore,awayScore,hit,brier
+m101,2026-07-14T19:00:00Z,2026-07-14T18:01:13.866Z,France,Spain,0.3334,0.2107,0.456,away,away,0,2,true,0.4515
+m100,2026-07-12T01:00:00Z,2026-07-12T00:01:14.011Z,Argentina,Switzerland,0.6633,0.172,0.1647,home,home,3,1,true,0.1701
+m099,2026-07-11T21:00:00Z,2026-07-11T20:01:14.235Z,Norway,England,0.2977,0.2029,0.4995,away,away,1,2,true,0.3803
+m098,2026-07-10T19:00:00Z,2026-07-10T18:01:13.977Z,Spain,Belgium,0.6382,0.177,0.1847,home,home,2,1,true,0.1963
+m097,2026-07-09T20:00:00Z,2026-07-09T19:01:13.593Z,France,Morocco,0.548,0.194,0.258,home,home,2,0,true,0.3085
 m096,2026-07-07T20:00:00Z,2026-07-07T19:01:13.542Z,Switzerland,Colombia,0.2856,0.2001,0.5143,away,draw,0,0,false,0.9859
 m095,2026-07-07T16:00:00Z,2026-07-07T15:01:13.973Z,Argentina,Egypt,0.7643,0.149,0.0867,home,home,3,2,true,0.0853
 m094,2026-07-07T00:00:00Z,2026-07-06T23:01:12.665Z,United States,Belgium,0.281,0.1992,0.5198,away,away,1,4,true,0.3492

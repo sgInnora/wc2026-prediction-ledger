@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and link to https://goalpulse.io/open-data."
+title: "World Cup 2026 — Receipt-Verified AI Prediction Ledger"
+type: dataset
+authors:
+  - name: "GoalPulse"
+    website: "https://goalpulse.io"
+repository-code: "https://github.com/sgInnora/wc2026-prediction-ledger"
+url: "https://goalpulse.io/open-data"
+license: CC-BY-4.0
+date-released: 2026-07-09
+abstract: >-
+  Every pre-kickoff AI forecast for FIFA World Cup 2026 published by
+  GoalPulse, locked in immutable snapshots with sha256 receipts before
+  kickoff and scored publicly against official results, with per-row
+  multiclass Brier scores and de-vig betting-market closing-consensus
+  baselines. The market outperformed the model on Brier score; the full
+  comparison, including every miss, is part of the dataset. Final-tournament
+  scorecard: https://goalpulse.io/wc2026-verdict
+keywords:
+  - football
+  - world-cup-2026
+  - forecasting
+  - calibration
+  - brier-score
+  - prediction-transparency
