@@ -19,6 +19,17 @@ Every pre-kickoff AI forecast for FIFA World Cup 2026 published by [GoalPulse](h
 ## License & citation
 **CC BY 4.0** (see `LICENSE`): free to use, share and adapt — credit **GoalPulse (goalpulse.io)** and link to https://goalpulse.io/open-data. A machine-readable `CITATION.cff` is included; GitHub's "Cite this repository" button works out of the box.
 
+## Embed the live scoreboard
+One iframe, self-contained, all 8 locales via `?lang=`:
+
+```html
+<iframe src="https://goalpulse.io/embed/scoreboard" width="480" height="300"
+        style="border:0" title="GoalPulse WC2026 champion odds"></iframe>
+<p>Data: <a href="https://goalpulse.io/wc2026-verdict">GoalPulse</a></p>
+```
+
+The widget carries its own attribution; the plain link under the iframe is appreciated (and is what search engines actually credit).
+
 ## Projects using this data
 Using the ledger in a notebook, article, model eval or app? **Open a PR adding yourself here** — we list every project.
 
